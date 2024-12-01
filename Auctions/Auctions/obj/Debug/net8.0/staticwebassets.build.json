@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sk72D1E/FBMcnHuPokuRgUKnxOvq2NjCmWoBILa+JnA=",
+  "Hash": "6bik7PDWSSWsFASH5jkAPmor0ZjecQj+qdTad+UgOdU=",
   "Source": "Auctions",
   "BasePath": "_content/Auctions",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "6mt861zvsc",
+      "Integrity": "El4wrVi6Tw3QYjXZgWaR+SjaaXj+RyvsdzSdolhMR+E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2808,7 +2808,7 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.6mt861zvsc.css",
       "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2818,7 +2818,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "629"
         },
         {
           "Name": "Content-Type",
@@ -2826,11 +2826,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"El4wrVi6Tw3QYjXZgWaR+SjaaXj+RyvsdzSdolhMR+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 01:42:46 GMT"
+          "Value": "Sun, 01 Dec 2024 06:18:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2840,7 +2840,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "6mt861zvsc"
         },
         {
           "Name": "label",
@@ -2848,7 +2848,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-El4wrVi6Tw3QYjXZgWaR+SjaaXj+RyvsdzSdolhMR+E="
         }
       ]
     },
@@ -2863,7 +2863,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "629"
         },
         {
           "Name": "Content-Type",
@@ -2871,11 +2871,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"El4wrVi6Tw3QYjXZgWaR+SjaaXj+RyvsdzSdolhMR+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 01:42:46 GMT"
+          "Value": "Sun, 01 Dec 2024 06:18:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2885,7 +2885,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-El4wrVi6Tw3QYjXZgWaR+SjaaXj+RyvsdzSdolhMR+E="
         }
       ]
     },
