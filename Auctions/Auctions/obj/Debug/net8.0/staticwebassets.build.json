@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+4ZvvbnYc8jzN1ZXIa87ttDD883Mb3LcXb2Mu5nFAN4=",
+  "Hash": "sk72D1E/FBMcnHuPokuRgUKnxOvq2NjCmWoBILa+JnA=",
   "Source": "Auctions",
   "BasePath": "_content/Auctions",
   "Mode": "Default",
@@ -1359,6 +1359,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\fun-with-friends.jpg",
+      "SourceId": "Auctions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\",
+      "BasePath": "_content/Auctions",
+      "RelativePath": "Images/fun-with-friends#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i10ud32hnr",
+      "Integrity": "SivaoxnXso/f3v0yX+SEA0Wmc7LyJ+oDTcRuAkJ7AtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fun-with-friends.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\images.jpg",
+      "SourceId": "Auctions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\",
+      "BasePath": "_content/Auctions",
+      "RelativePath": "Images/images#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snb860hf5e",
+      "Integrity": "+HzN8HF3g6qcqm7BvG7eISI8h+dph0O4ryvBTLKgj10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\images.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\ingameimg.jpg",
+      "SourceId": "Auctions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\",
+      "BasePath": "_content/Auctions",
+      "RelativePath": "Images/ingameimg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y28d67ze94",
+      "Integrity": "KlzdBHINA3V2anzro5p7w8QJ3UzJKz/cS+bhridoJTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ingameimg.jpg"
     },
     {
       "Identity": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\js\\site.js",
@@ -5125,6 +5188,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fun-with-friends.i10ud32hnr.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\fun-with-friends.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SivaoxnXso/f3v0yX+SEA0Wmc7LyJ+oDTcRuAkJ7AtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i10ud32hnr"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/fun-with-friends.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SivaoxnXso/f3v0yX+SEA0Wmc7LyJ+oDTcRuAkJ7AtI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fun-with-friends.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\fun-with-friends.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SivaoxnXso/f3v0yX+SEA0Wmc7LyJ+oDTcRuAkJ7AtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SivaoxnXso/f3v0yX+SEA0Wmc7LyJ+oDTcRuAkJ7AtI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/images.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HzN8HF3g6qcqm7BvG7eISI8h+dph0O4ryvBTLKgj10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HzN8HF3g6qcqm7BvG7eISI8h+dph0O4ryvBTLKgj10="
+        }
+      ]
+    },
+    {
+      "Route": "Images/images.snb860hf5e.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+HzN8HF3g6qcqm7BvG7eISI8h+dph0O4ryvBTLKgj10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snb860hf5e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/images.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+HzN8HF3g6qcqm7BvG7eISI8h+dph0O4ryvBTLKgj10="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ingameimg.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\ingameimg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlzdBHINA3V2anzro5p7w8QJ3UzJKz/cS+bhridoJTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:42:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlzdBHINA3V2anzro5p7w8QJ3UzJKz/cS+bhridoJTc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ingameimg.y28d67ze94.jpg",
+      "AssetFile": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\ingameimg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlzdBHINA3V2anzro5p7w8QJ3UzJKz/cS+bhridoJTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 04:42:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y28d67ze94"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/ingameimg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlzdBHINA3V2anzro5p7w8QJ3UzJKz/cS+bhridoJTc="
         }
       ]
     },

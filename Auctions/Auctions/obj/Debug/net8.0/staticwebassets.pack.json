@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Auctions.ldxvk77tdf.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\fun-with-friends.jpg",
+      "PackagePath": "staticwebassets\\Images\\fun-with-friends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\images.jpg",
+      "PackagePath": "staticwebassets\\Images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\Images\\ingameimg.jpg",
+      "PackagePath": "staticwebassets\\Images\\ingameimg.jpg"
+    },
+    {
       "Id": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
