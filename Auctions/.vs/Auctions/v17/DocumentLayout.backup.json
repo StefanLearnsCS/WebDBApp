@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\stefa\\WebDBApp\\Auctions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +47,12 @@
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A785F1-C7F2-4087-88B4-F8E4B426CF46}|Auctions\\Auctions.csproj|c:\\users\\stefa\\webdbapp\\auctions\\auctions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +102,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Bid.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Models\\Bid.cs",
               "RelativeDocumentMoniker": "Auctions\\Models\\Bid.cs",
@@ -99,46 +115,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Auctions\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Auctions\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T21:01:22.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaginatedList.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\PaginatedList.cs",
-              "RelativeDocumentMoniker": "Auctions\\PaginatedList.cs",
-              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\PaginatedList.cs",
-              "RelativeToolTip": "Auctions\\PaginatedList.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:25:36.257Z",
+              "WhenOpened": "2024-12-01T21:32:27.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T06:18:54.67Z",
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:31:55.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "BidsService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\BidsService.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\BidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:11:41.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBidsService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:10:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Auctions\\wwwroot\\css\\site.css",
@@ -151,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Listings\\Details.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Details.cshtml",
@@ -159,37 +188,37 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Details.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAIwFUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T05:24:27.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T05:24:27.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "ListingsService.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\ListingsService.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ListingsService.cs",
               "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\ListingsService.cs",
               "RelativeToolTip": "Auctions\\Data\\Services\\ListingsService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:27:09.962Z"
+              "WhenOpened": "2024-12-01T03:27:09.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ListingsController.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
               "RelativeDocumentMoniker": "Auctions\\Controllers\\ListingsController.cs",
               "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
               "RelativeToolTip": "Auctions\\Controllers\\ListingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwIAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T03:24:15.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Listings\\Index.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Index.cshtml",
@@ -197,12 +226,11 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T03:34:19.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T03:34:19.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Listing.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Models\\Listing.cs",
               "RelativeDocumentMoniker": "Auctions\\Models\\Listing.cs",
@@ -214,7 +242,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Program.cs",
+              "RelativeDocumentMoniker": "Auctions\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Program.cs*",
+              "RelativeToolTip": "Auctions\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:33:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:18:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IListingsService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IListingsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IListingsService.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IListingsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IListingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:25:38.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Auctions\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\PaginatedList.cs",
+              "RelativeToolTip": "Auctions\\PaginatedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:25:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T21:01:22.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Views\\Listings\\Create.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Create.cshtml",
@@ -226,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Auctions\\Models\\Comment.cs",
@@ -238,19 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IListingsService.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IListingsService.cs",
-              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IListingsService.cs",
-              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Services\\IListingsService.cs",
-              "RelativeToolTip": "Auctions\\Data\\Services\\IListingsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:25:38.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ListingVM.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Models\\ListingVM.cs",
               "RelativeDocumentMoniker": "Auctions\\Models\\ListingVM.cs",
@@ -262,19 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Program.cs",
-              "RelativeDocumentMoniker": "Auctions\\Program.cs",
-              "ToolTip": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Program.cs",
-              "RelativeToolTip": "Auctions\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:33:23.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "20241201032126_Initial mgr.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\Migrations\\20241201032126_Initial mgr.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\Migrations\\20241201032126_Initial mgr.cs",
@@ -286,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\appsettings.json",
               "RelativeDocumentMoniker": "Auctions\\appsettings.json",
@@ -298,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\WebDBApp\\Auctions\\Auctions\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\ApplicationDbContext.cs",
